@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EP2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_pedidos">PedidosActivity</string>
+    <string name="title_activity_detalle_pedido">DetallePedidoActivity</string>
+    <string name="title_activity_splash">Kawaii App</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_caja">CajaActivity</string>
+    <string name="title_activity_caja_insert">CajaInsertActivity</string>
+    <string name="title_activity_top_ten">Top 10 Animes</string>
+    <string name="title_activity_envios">EnviosActivity</string>
+    <string name="title_activity_detalle_envio">DetalleEnvioActivity</string>
+</resources>
